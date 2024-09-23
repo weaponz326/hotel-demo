@@ -1,0 +1,1 @@
+var i=[{hotel:"1",amenity_name:"Swimming Pool",description:"Enjoy our outdoor swimming pool with a beautiful view.",location:"Outdoor",image:"assets/images/content/amenity 2.jpg",availability:!1}];export{i as a};

@@ -1,0 +1,1 @@
+var i=function(e){return e.Suite="suite",e.Single="single",e.Double="double",e.Twin="twin",e.King="king",e.Queen="queen",e}(i||{}),t=[{hotel:"1",room_number:"101",type:i.Suite,status:"available",room_size:100,number_of_beds:1,description:"Luxurious suite with a king-size bed",price_per_night:100,capacity:1}];export{i as a,t as b};
